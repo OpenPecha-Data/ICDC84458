@@ -1,0 +1,21 @@
+id: ICDC84458
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-22
+  title: ''
+  author: ''
+  authors: &id001 []
+  sku: RDI-KK-22
+  cover: RDI-KK-22.jpeg
+  volume: {}
+ebook_metadata:
+  title: ''
+  authors: *id001
+  sku: RDI-KK-22
+  cover: RDI-KK-22.jpeg
+layers:
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
