@@ -2,14 +2,17 @@ id: ICDC84458
 initial_creation_type: ebook
 source_metadata:
   id: RDI-KK-22
-  title: ''
-  author: ''
-  authors: &id001 []
+  title: རྡོ་རྗེ་རྣལ་འབྱོར་མའི་གསང་སྒྲུབ་རྣམ་བཤད།
+  author: མཛད་པ་པོ། དཔའ་བོ་གཙུག་ལག་ཕྲེང་བ།
+  authors: &id001
+  - མཛད་པ་པོ། དཔའ་བོ་གཙུག་ལག་ཕྲེང་བ།
   sku: RDI-KK-22
   cover: RDI-KK-22.jpeg
   volume: {}
+  title_source: epub:dc:title
+  author_source: base_text:colophon
 ebook_metadata:
-  title: ''
+  title: རྡོ་རྗེ་རྣལ་འབྱོར་མའི་གསང་སྒྲུབ་རྣམ་བཤད།
   authors: *id001
   sku: RDI-KK-22
   cover: RDI-KK-22.jpeg
